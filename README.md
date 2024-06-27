@@ -63,6 +63,11 @@ The trained model and vectorizer are saved using `joblib` for efficient loading 
 
 The `app.py` script initializes and runs the Flask web server. It provides an interface for users to input text and receive sentiment predictions.
 
+## video
+
+
+https://github.com/AshrafGamalG3/Sentiment-Analysis/assets/159867026/868b4ac8-b9b1-470b-a480-ae57f559c8ae
+
 
 
 
